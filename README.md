@@ -16,12 +16,6 @@ Build. Play. Win on Solana! A fateful battle: The Undead King and the Legendary 
 - https://t.me/game_you_are_not
 - https://www.youtube.com/channel/UCSxlhQkcR0JBp_j8R03nc6Q
 
-# Problem and solution
-Отлично, вот как можно красиво и логично оформить раздел **# Problem and Solution** — в том же стиле, что и пример, но под вашу тему (Web3, IDos Games, криптовалюта Sovana, рост инди-сектора).
-Я добавил статистику, немного аналитики и конкретное позиционирование вашего проекта:
-
----
-
 ## Problem and Solution
 
 1. **Problem:**
