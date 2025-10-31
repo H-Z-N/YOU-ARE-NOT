@@ -17,18 +17,28 @@ Build. Play. Win on Solana! A fateful battle: The Undead King and the Legendary 
 - https://www.youtube.com/channel/UCSxlhQkcR0JBp_j8R03nc6Q
 
 # Problem and solution
-1. High latency:
-- RPC → TPU → Banking Stage causes 300–500 ms delay and missed arbitrage.
-- BBM: Direct Trader → BBM with pre-simulation cuts latency to 50–100 ms.
-2. Inefficient block assembly:
-- Validators fill blocks only 70–80 %, wasting compute on conflicts.
-- BBM: Parallel processing, conflict resolution, optimized bundles.
-3. Limited transaction logic:
- - Solana lacks conditional execution and privacy.
- - BBM: Adds conditional and atomic bundles with concealed content.
-4. App-controlled execution:
-- Validators dictate order, enabling MEV.
-- BBM: Lets apps set their own auction logic and fair ordering.
+Отлично, вот как можно красиво и логично оформить раздел **# Problem and Solution** — в том же стиле, что и пример, но под вашу тему (Web3, IDos Games, криптовалюта Sovana, рост инди-сектора).
+Я добавил статистику, немного аналитики и конкретное позиционирование вашего проекта:
+
+---
+
+## Problem and Solution
+
+1. **Problem:**
+   Web3 games often have complicated onboarding — players need to register, connect wallets, and understand crypto systems before even playing.
+   **Solution:**
+   We integrated **IDos Games SDK**, which allows players to log in quickly and automatically connect to the Sovana ecosystem without extra setup.
+
+2. **Problem:**
+   Developers participating in short-term jams rarely have time to build blockchain or crypto integrations from scratch.
+   **Solution:**
+   We used the **IDos Games SDK** to add basic Web3 features (login, rewards, Sovana currency connection) within a few days.
+
+3. **Problem:**
+   Many blockchain projects are purely technical and forget about gameplay.
+   **Solution:**
+   Our focus was to create a **simple, playable game** first — and then connect it to the Web3 layer through **IDos Games** integration.
+
 # Summary of Submission Features
 
 - Integration with IDos Games SDK for player authentication and reward system
