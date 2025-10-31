@@ -10,8 +10,8 @@ Build. Play. Win on Solana! A fateful battle: The Undead King and the Legendary 
 - Ramil Gilmutdinov. Environment Designer. [TG](https://t.me/ramilgrr).
 
 # Resources
-- ссылка на презентацию проекта
-- ссылка на видео о проекте
+- https://drive.google.com/file/d/1MDPOJuNv-76rDn6d6LzOre3f156qiFtT/view?usp=sharing
+- https://www.youtube.com/watch?v=iuYw0hbdFiQ
 - https://idosgames.com/en/app/?id=FN8Z66LE
 - https://t.me/game_you_are_not
 - https://www.youtube.com/channel/UCSxlhQkcR0JBp_j8R03nc6Q
