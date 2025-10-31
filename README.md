@@ -108,29 +108,7 @@ Libraries:
 
 # Quick start
 
-### **Installation & Launch Guide**
-
-There are **two ways** to try our game:
-
-#### Option 1 — Windows Version (Recommended)
-
-1. This repository:
-
-   git (https://github.com/H-Z-N/YOU-ARE-NOT.git)
-   
-2. Open the folder `Build/Windows/`
-3. Run the executable file:
-
-   ```
-   YourGameName.exe
-   ```
-4. Play and enjoy!
-
-*(This version provides the most stable performance and works without requiring an SDK login.)*
-
----
-
-#### Option 2 — Web Version (via Aidos Games)
+#### Web Version (via IDdos Games)
 
 1. Go to **[IDos Games Platform](https://idosgames.com/en/app/?id=FN8Z66LE)**
 2. Log in using your **IDdos Games account**
