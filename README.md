@@ -7,7 +7,7 @@ Build. Play. Win on Solana! A fateful battle: The Undead King and the Legendary 
 - Nazar Torekhanov. Game Designer, 3D Modeler. [GitHub](https://github.com/H-Z-N). [TG](https://t.me/tor_T_N). [X](https://x.com/hybrid_Z_N).
 - Sultan Batyrkhanov. Systems Programmer. [TG](https://t.me/DeadmaidenILS).
 - Nurali Amangeldiyev. Unity Developer. [TG](https://t.me/Cubex33).
-- Ramil Gimaletdinov. Environment Designer. [TG](https://t.me/ramilgrr).
+- Ramil Gilmutdinov. Environment Designer. [TG](https://t.me/ramilgrr).
 
 # Resources
 - ссылка на презентацию проекта
